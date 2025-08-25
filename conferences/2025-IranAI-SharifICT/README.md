@@ -1,6 +1,6 @@
 # کنفرانس هوش مصنوعی شریف ۱۴۰۴
 
-![AI Conference Banner](/image.png)
+![AI Conference Banner](https://github.com/elprofesorsunny/Papers/blob/main/conferences/2025-IranAI-SharifICT/image.png)
 
 ---
 
