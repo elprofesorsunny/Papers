@@ -1,6 +1,6 @@
-# کنفرانس هوش مصنوعی شریف ۱۴۰۲
+# کنفرانس هوش مصنوعی شریف ۱۴۰۴
 
-![AI Conference Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Artificial_Intelligence_in_Business.jpg/640px-Artificial_Intelligence_in_Business.jpg)
+![AI Conference Banner](/image.png)
 
 ---
 
@@ -63,4 +63,4 @@
 
 ---
 
-✍️ تهیه و گردآوری: _شرکت‌کنندگان و علاقه‌مندان کنفرانس هوش مصنوعی شریف ۱۴۰۲_
+✍️ تهیه و گردآوری: _۱۴۰۴ مهدی پاکروان و محمد خورشیدی_
